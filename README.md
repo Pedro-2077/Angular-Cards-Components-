@@ -1,10 +1,15 @@
 Meu mini projeto Angular 🎯
 
+
+<p align="center">
+  <img src="images/Captura de tela 2026-02-01 204825.png" alt="Preview do projeto" width="700">
+</p>
+
+---
+
 <p align="center">
   <img src="images/image.png" alt="Preview do projeto" width="700">
 </p>
-
-> Um README descontraído para registrar meu passo a passo aprendendo Angular — simples, visual e pronto pra mostrar no GitHub.
 
 ---
 
@@ -170,7 +175,3 @@ Se quiser me ajudar:
 Sinta-se livre para usar/alterar esse projeto — place it under MIT se quiser compartilhar oficialmente.
 
 ---
-
-### Observação final
-
-Esse README é propositalmente curto, com tom leve e prático — perfeito para mostrar que você está aprendendo e que o código funciona. Quer que eu gere uma versão mais formal (para portfólio) ou uma versão reduzida para o README do GitHub? 😄

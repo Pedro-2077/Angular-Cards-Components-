@@ -8,4 +8,9 @@ import { Component, signal } from '@angular/core';
 })
 export class App {
   protected readonly title = signal('ex01');
+
+  onCardButtonClicked() {
+    console.log("Chamada Http")
+  }
+
 }
